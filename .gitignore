@@ -1,0 +1,4 @@
+.idea
+config/default.json
+config/production.json
+node_modules
